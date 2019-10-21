@@ -12,7 +12,6 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.alan.recycleviewgambardantext.R;
 import com.alan.recycleviewgambardantext.models.SuperHero;
-import com.squareup.picasso.Picasso;
 
 import java.util.List;
 
