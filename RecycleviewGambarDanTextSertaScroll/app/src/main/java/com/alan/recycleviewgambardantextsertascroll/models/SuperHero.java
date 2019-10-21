@@ -15,23 +15,14 @@ public class SuperHero {
         return heroName;
     }
 
-    public void setHeroName(String heroName) {
-        this.heroName = heroName;
-    }
 
     public String getHeroText() {
         return heroText;
     }
 
-    public void setHeroText(String heroText) {
-        this.heroText = heroText;
-    }
 
     public int getHeroImage() {
         return heroImage;
     }
 
-    public void setHeroImage(int heroImage) {
-        this.heroImage = heroImage;
-    }
 }
